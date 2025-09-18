@@ -3,7 +3,6 @@ npm install
 npm run dev
 
 - Top / New / Best / Ask / Show / Jobs
-- **Comments**: latest HN comments (scanned from `/v0/maxitem` backward; batched).
 - **Submit**: add a post (title + URL or text). Uses Firestore when signed-in; localStorage otherwise. Shows "My submissions".
 - Story details with nested comments
 - User profile with recent submissions
